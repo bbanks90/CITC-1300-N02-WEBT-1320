@@ -1,0 +1,98 @@
+/* Global Styles */
+body {
+    background-color: darkorange;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a {
+    color: black;
+}
+
+a :hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+#container {
+    background-color: aliceblue;
+    width: 75%;
+    margin: 20px auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: blueviolet;
+}
+/* Desktop Styles */
+
+nav {
+    background-color: darkgreen;
+    padding: 5px 0;
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    color: bisque;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav li a:hover {
+    color: aliceblue;
+} 
+
+header h1 {
+
+    font-size: 75px;
+    color: blue;
+    text-shadow: 2px 2px 2px #000;
+}
+
+main {
+    padding: 20px;
+}
+
+main img {
+    width: 50%;
+}
+
+#lower {
+    display: flex;
+}
+
+
+.col {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    width: 33.33%;
+}
+
+.col img {
+    border-radius: 20px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+hr {
+    width: 90%;
+}
