@@ -5,7 +5,7 @@
 <li><a href="html_intro_css/index.html" target="_blank">HTML Intro CSS</a></li>
 <li><a href="adv_css/index.html" target="_blank">Advance CSS</a></li>
 <li><a href="responsive/index.html" target="_blank">Responsive</a></li>
-<li><a href="final/index.html" target="_blank">Final</a></li>
+<li><a href="Final/index.html" target="_blank">Final</a></li>
 </ul>
 
  
