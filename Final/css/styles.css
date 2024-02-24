@@ -1,6 +1,6 @@
 /* Global Styles */
 body {
-    background-color: darkorange;
+    background-color: #f2b84b;
 }
 
 img {
@@ -10,11 +10,11 @@ img {
 }
 
 a {
-    color: black;
+    color: #0d0d0d;
 }
 
 a :hover {
-    color: cornflowerblue;
+    color: #f20505;
     text-decoration: none;
 }
 
@@ -26,12 +26,12 @@ a :hover {
 
 h1, h2, h3 {
     text-align: center;
-    color: blueviolet;
+    color: #03732a
 }
 /* Desktop Styles */
 
 nav {
-    background-color: darkgreen;
+    background-color: #03732a;
     padding: 5px 0;
     text-align: right;
 }
@@ -46,21 +46,20 @@ nav li {
 }
 
 nav li a {
-    color: bisque;
+    color: #f2b84b;
     margin-right: 20px;
     text-decoration: none;
     font-size: 20px;
-    font-weight: bold;
+    font-weight:500
 }
 
 nav li a:hover {
-    color: aliceblue;
+    color: #0df205;
 } 
 
 header h1 {
-
-    font-size: 75px;
-    color: blue;
+    font-size: 100px;
+    color: #f20505;
     text-shadow: 2px 2px 2px #000;
 }
 
@@ -73,20 +72,19 @@ main img {
 }
 
 #lower {
-    display: flex;
+    display:flex
 }
 
 
 .col {
     padding: 10px;
     margin: 10px;
-    border: 2px solid black;
+    border: 2px solid #f20505;
     width: 33.33%;
+    border-radius: 10px;
 }
 
-.col img {
-    border-radius: 20px;
-}
+
 
 footer {
     padding: 40px 0;
@@ -100,7 +98,7 @@ hr {
 
 .button {
     display: block;
-    background-color: black;
+    background-color: #f20505;
     width: 125px;
     height: 40px;
     color: white;
@@ -115,5 +113,5 @@ margin-right: auto;
 }
 
 .button:hover {
-    color: white;
+    color: #f2b84b;
 }
